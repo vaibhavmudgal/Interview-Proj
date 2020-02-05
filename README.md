@@ -6,5 +6,5 @@ Connects to TOR using SOCKS5h proxies, Query based search on search engines etc.
 Implementation of logistic regression
 # Scraper-o-vehicles
 Scraping a complete website with 24k+ advertisements of vehicles on sale and checking for updated ads as well.
-# Boston and college
+# Boston
 Implementing linear reg on boston data
